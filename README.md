@@ -16,13 +16,13 @@
 ## 📸 Results Gallery
 
 ### Model Geometry
-![COMSOL model geometry — RTP chamber cross-section](model-geometry.png)
+![COMSOL model geometry — RTP chamber cross-section](model-geometry.jpeg)
 
 ### Temperature Distribution (t = 60 s)
-![Surface temperature distribution at t = 60 s](temperature-distribution-60s.png)
+![Surface temperature distribution at t = 60 s](temperature-distribution-60s.jpeg)
 
 ### Wafer Midpoint Temperature vs. Time
-![Wafer midpoint temperature vs time, 0-60s](wafer-midpoint-temperature-vs-time.png)
+![Wafer midpoint temperature vs time, 0-60s](wafer-midpoint-temperature-vs-time.jpeg)
 
 ---
 

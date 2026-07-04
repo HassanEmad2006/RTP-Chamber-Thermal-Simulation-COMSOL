@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelInfo comsolVersion="6.3.0.290" comsolVersionExtension="" modelType="MODEL" nodeType="solved" isRunnable="false" pdfResources="" passwordProtection="off" startMode="edit" ignoreLicenseErrors="off" title="" description="" runtimeProtection="off" windowTitle="Final thermo project" expectedComputationTime="" lastComputationTime="7.611 s" lastComputationDate="May 13, 2026, 2:47:24 AM" lastComputationVersion="COMSOL 6.3.0.290" mainPartSDim="None">
+  <historyInfo createdIn="COMSOL Multiphysics 6.3 (Build: 290)" author="" createdDate="1778631964528" lastModifiedBy="" lastModifiedDate="1778632302293"/>
+  <licenseInfo products="HEATTRANSFER"/>
+  <physicsInfo physics="Heat_transfer_in_solids##Surface_to_surface_radiation"/>
+  <geometryInfo>
+    <geom tag="geom1" dimension="2"/>
+  </geometryInfo>
+  <batchLicInfo batchLic=""/>
+  <appArgumentInfo/>
+</modelInfo>
+

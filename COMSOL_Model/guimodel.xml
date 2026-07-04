@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GuiModel dimension="2" viewDimension="2" guiView="GEOM" currentGeomSequence="geom1" currentMeshSequence="mesh1" currentTableFeature="tbl1" currentPlotGroupFeature="pg4" currentStudyFeature="std1" currentNode="/probe/pdom2">
+  <openWindows>
+    <string>MAINWINDOW</string>
+  </openWindows>
+  <subModelsTag>
+    <string>geom1</string>
+    <string>geom1</string>
+  </subModelsTag>
+  <subModelsLastDrawOrSketch>
+    <string>DRAW</string>
+    <string>DRAWSKETCH</string>
+  </subModelsLastDrawOrSketch>
+</GuiModel>
+

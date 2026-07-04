@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileIDs>
+  <SavePoint tag="savepoint1" fileid="f2d82ddb14bb773a" purgeable="true"/>
+  <BinaryResource file="mesh1.mphbin" fileid="9c0b586c33f94c3c" binarytype="MESH" purgeable="true"/>
+  <BinaryResource file="geometry6.mphbin" fileid="8ea2e9a01f3636cc" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry3.mphbin" fileid="f976fe6a711a7a73" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry4.mphbin" fileid="9ebed2784e9e7c56" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry1.mphbin" fileid="97ebe532b57ed896" binarytype="GEOMETRY" purgeable="false"/>
+  <BinaryResource file="geometry7.mphbin" fileid="ecb6dac0e95fc7ab" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry11.mphbin" fileid="c996b9f816da7695" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry2.mphbin" fileid="386ec3e269a624f5" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry5.mphbin" fileid="931b87929b94698e" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry13.mphbin" fileid="705ab654a5be482c" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry8.mphbin" fileid="abbeee8bff35741e" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry12.mphbin" fileid="cc6c4db963c7626" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry10.mphbin" fileid="326bb54877368b22" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="geometry9.mphbin" fileid="5d0e656038a3e5c4" binarytype="GEOMETRY" purgeable="true"/>
+  <BinaryResource file="xmesh1.mphbin" fileid="1dccd47fadfbd115" binarytype="XMESH" purgeable="true"/>
+  <BinaryResource file="geommanager1.mphbin" fileid="91c1b21b23229627" binarytype="GEOMMANAGER" purgeable="false"/>
+  <BinaryResource file="solution1.mphbin" fileid="71a65aefe035380b" binarytype="SOLUTION" purgeable="false"/>
+  <BinaryResource file="solutionstatic1.mphbin" fileid="e70356a3902902b2" binarytype="SOLUTIONSTATIC" purgeable="true"/>
+  <BinaryResource file="solutionblock1.mphbin" fileid="63dd71a022edb692" binarytype="SOLUTIONBLOCK" purgeable="true"/>
+</FileIDs>
+
